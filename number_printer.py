@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by: Andrew-Ten-Den
+# Created by: Dahrio Francois
 # Created on: May 2022
 # This program uses a while statement to print numbers from
 # 1000 to 2000, 5 numbers at a time
